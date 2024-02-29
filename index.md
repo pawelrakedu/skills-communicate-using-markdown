@@ -14,3 +14,9 @@ var myVar = "Hello, world!";
 ```
 
 new commit because wadded new comments
+
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
